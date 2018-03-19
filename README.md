@@ -56,7 +56,7 @@ merged_df= merged_df.drop_duplicates()
 #merged_df["Drug"].value_counts()
 ```
 
-# Tumor Volume Response to Treatment
+## Tumor Volume Response to Treatment
 
 
 ```python
@@ -111,7 +111,7 @@ plt.show()
 ![png](README_files/README_7_0.png)
 
 
-# Number of Metastatic Sites Response to Treatment
+## Number of Metastatic Sites Response to Treatment
 
 
 ```python
@@ -165,7 +165,7 @@ plt.show()
 ![png](README_files/README_9_0.png)
 
 
-# Mouse Survival Rate (%) over Time per Treatment
+## Mouse Survival Rate (%) over Time per Treatment
 
 
 ```python
@@ -209,7 +209,7 @@ plt.show()
 ![png](README_files/README_11_0.png)
 
 
-# Total % tumor volume change for each treatment over a 45-day course
+## Total % tumor volume change for each treatment over a 45-day course
 
 
 ```python
