@@ -1,16 +1,8 @@
 
-# HW5-2 -Pymaceuticals
+##Pymaceuticals
+In this study, 250 mice were treated through a variety of drug regimes over the course of 45 days. Their physiological responses were then monitored over the course of that time. I utilized matplotlib, numpy and pandas to analyze the physiological response of mice, under four different treatments(Capomulin, Infubinol, Ketapril, and Placebo).
 
-##  In this study, 250 mice were treated through a variety of drug regimes over the course of 45 days. Their physiological responses were then monitored over the course of that time. Your objective is to analyze the data to show how four treatments (Capomulin, Infubinol, Ketapril, and Placebo) compare.
-
-##  To do this you are tasked with:
-
-### 1.) Creating a scatter plot that shows how the tumor volume changes over time for each treatment.
-### 2.) Creating a scatter plot that shows how the number of metastatic (cancer spreading) sites changes over time for each treatment.
-### 3.) Creating a scatter plot that shows the number of mice still alive through the course of treatment (Survival Rate)
-### 4.) Creating a bar graph that compares the total % tumor volume change for each drug across the full 45 days.
-
-# Three observable trends based on the data below:
+## Three observable trends based on the data below:
 1. Tumor volume reduced significantly over time for mice taking the drug Capomulin, with an overall 19.5% reduction in tumor volume over the 45-day course treatment. The other two drugs, Infubinol and Ketapril, showed similar trends in mean tumor volume increase overtime, comparable to the Placebo (control) group. Error bars for the latter two treatments overlapped with the error bars of the placebo group, indicating no significant difference between these treatments, therefore Infubinol and Ketapril appear to be ineffective in controlling tumor size over a 45-day period.
 
 2. The drugs Capomulin and Infubinol were effective in reducing the spread of cancer cells compared to the Placebo (control) group. At the end of the 45-day course treatment, mice taking Capomulin had, on average, half the number of metastatic sites, and mice taking Infubinol had 1/3 less metastatic sites, compared to the placebo group.
