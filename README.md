@@ -1,6 +1,6 @@
 
 ## Pymaceuticals
-In this study, 250 mice were treated through a variety of drug regimes over the course of 45 days. Their physiological responses were then monitored over the course of that time. I utilized matplotlib, numpy and pandas to analyze the physiological response of mice, under four different treatments(Capomulin, Infubinol, Ketapril, and Placebo).
+In this study, 250 mice were treated through a variety of drug regimes over the course of 45 days. Their physiological responses were then monitored over the course of that time. I utilized matplotlib, numpy and pandas to analyze the physiological response of mice, under four different treatments (Capomulin, Infubinol, Ketapril, and Placebo).
 
 ## Three observable trends based on the data below:
 1. Tumor volume reduced significantly over time for mice taking the drug Capomulin, with an overall 19.5% reduction in tumor volume over the 45-day course treatment. The other two drugs, Infubinol and Ketapril, showed similar trends in mean tumor volume increase overtime, comparable to the Placebo (control) group. Error bars for the latter two treatments overlapped with the error bars of the placebo group, indicating no significant difference between these treatments, therefore Infubinol and Ketapril appear to be ineffective in controlling tumor size over a 45-day period.
