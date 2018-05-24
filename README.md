@@ -1,5 +1,5 @@
 
-## Pymaceuticals
+## Pharmaceutical Study using Python (pandas, numpy, matplotlib)
 In this study, 250 mice were treated through a variety of drug regimes over the course of 45 days. Their physiological responses were then monitored over the course of that time. I utilized matplotlib, numpy and pandas to analyze the physiological response of mice, under four different treatments (Capomulin, Infubinol, Ketapril, and Placebo).
 
 ## Three observable trends based on the data below:
